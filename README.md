@@ -35,6 +35,8 @@ After cloning the template, make sure to clean up and update the following:
 1. Remove the .git directory and run `git init` to clean the commit history.
 2. Clean up the README.md file.
 3. Adapt the LICENSE file to your project.
+4. Delete public/vite.svg, public/screenshot, src/assets/images/javascript.svg, and src/assets/images/vite.svg.
+5. Adapt the package.json file with your project's own information.
 
 ## Scripts
 
